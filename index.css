@@ -10,6 +10,13 @@ li{
     overflow: hidden;
 }
 
+section{
+    background-color: #e3f2fd;
+}
+
+.title{
+    text-align: center;
+}
 #main_panel, #side_panel{
     margin: 10px;
     color: #133769;
@@ -18,10 +25,11 @@ li{
 
 #main_panel{
     width: 75%;
+    padding: 30px;
 }
 
 #side_panel{
-    width:25%;
+    width: 25%;
 }
 
 .info_section{
