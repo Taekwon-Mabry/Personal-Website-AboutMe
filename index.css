@@ -16,8 +16,23 @@ li{
     background-color: #e3f2fd;
 }
 
+#main_panel{
+    width: 75%;
+}
+
+#side_panel{
+    width:25%;
+}
+
 .info_section{
     background-color: #c2dde4;
+}
+
+.doing_section{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 60px;
+    margin: 10px;
 }
 
 #panel{
